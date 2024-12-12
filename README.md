@@ -1,6 +1,13 @@
-# EXP 2: Fitting Poisson  distribution
-# Date:15.09.23
-# Aim : 
+#  Fitting Poisson  distribution
+# Exp no:2
+
+# Date:
+
+# Name:RAJESHWARI M
+
+# Register no:24900813
+
+# Aim:
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
 
@@ -31,8 +38,8 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 ```py
-Developed by : Priyanka.A
-Register number : 212222230113
+Developed by : RAJESHWARI M
+Register number : 24900813
 
 import numpy as np
 import math
